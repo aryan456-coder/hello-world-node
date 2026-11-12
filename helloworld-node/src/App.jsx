@@ -12,6 +12,7 @@ function App() {
       <h1>Hello World</h1>
       <h2>Welcome to React</h2>
       <p>So my name is Aryan</p>
+      <p>I am a third year IT student</p>
     </>
   )
 }
